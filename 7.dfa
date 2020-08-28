@@ -1,6 +1,6 @@
 alphabet: {a,b}
 start: Q0
-accepting: {Q02, Q12, Q2}
+accepting: {Q0, Q02, Q12, Q2}
 
 Q0 (a -> Q02) (b -> Q1)
 Q02 (a -> Q02) (b -> Q1)
